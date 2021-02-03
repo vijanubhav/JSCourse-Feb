@@ -1,0 +1,14 @@
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+
+.fas {
+    font-size: 15em;
+    color: white;
+}
+
+.section {
+    justify-content: center;
+    margin: 2em;
+}
