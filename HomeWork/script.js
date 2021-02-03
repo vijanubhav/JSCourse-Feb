@@ -1,3 +1,4 @@
+let bulbcolor = window.getComputedStyle(document.getElementById('bulb')).color
 let bulb = document.getElementById('bulb')
 
 document.getElementById('redbutton').onclick = () => {
